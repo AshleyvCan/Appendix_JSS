@@ -1,0 +1,10 @@
+{"1": "1. Informative: For the user to gain insight into the provided content/data.",
+"2": "2. Instructional: To provide the user with instructions/information to perform a complex step or a multi-layered process.",
+"3": "3. Shortcuts: one singular command or element that provides direct access to specific content or actions in order to bypass default operations or the default page structure organization.",
+"4": "4. Organization and navigation: To organize a collection of contents (including pages/screens or elements of a page/screen) and enable the user to navigate over/through the content.",
+"5": "5 Layout and readability: To structure the content of (a) page(s) (in a non-navigational manner) to improve the interaction with the system in terms of, e.g., readability, clarity or aesthetic appeal.",
+"6": "6. Customization: Enables the user to indicate their preferences or customize how they see the software/webpage or interact with it.",
+"7": "7. Social interaction: enables community driven activities and social interaction.", 
+"8": "8. Access control: aimed at restricting or allowing users to certain functionalities.",
+"9": "9. Input assistance: provides the user with assistance for entering a specific data field in an active or restrictive manner.",
+"10": "10. Transactional handling: provides the user with a control to handle changes to the state of the process."}
