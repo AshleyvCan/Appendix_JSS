@@ -36,7 +36,6 @@ This subfolder contains the scripts to run ReqSign-T.
 To run ReqSign, this folder focuses on the functionalities to extract the predictions from the model's responses.
 
 
-
 ## Folder: Supplementary material 
 This folder consists of subfolders: RQ1, RQ2 and RQ3.
 
@@ -49,11 +48,6 @@ This subfolder contains the following files:
 - exclusion_criteria.xlsx: consists of the defined exclusion criteria for the patterns.
 
 ### subFolder: RQ2
-The following files are present in this subfolder:
-- demonstration_examples.xlsx: presents the demonstration examples used in the prompts for ReqSign-T. The table presents also the original user story and/or whether the examples was manually created.
-- model_selection.ipynb: presents a script to retrieve the HuggingFace OpenLLM Leaderboard. To replicate the results, make sure you only select models with a submission date before 17-12-2025.
-
-### subFolder: RQ3
 This subfolder contains the following files:
 - metrics_scores.xlsx: contains the raw metric scores to generate the boxplots of Figure 7.
 - test_results.xlsx: presents the test results of each metric tested.
@@ -61,3 +55,8 @@ This subfolder contains the following files:
 - common_categories.xlsx: presents the ratio and frequency scores to create Figure 10 & 12.
 - thematic_analysis.xlsx: contains the frequency of occurrence of each mentioned theme in section 8.2.3.
 - survey_questions.xlsx: presents the questions asked in the survey.
+
+#### subsubfolder Experimental setup
+The following files are present in this subsubfolder:
+- demonstration_examples.xlsx: presents the demonstration examples used in the prompts for ReqSign-T. The table presents also the original user story and/or whether the examples was manually created.
+- model_selection.ipynb: presents a script to retrieve the HuggingFace OpenLLM Leaderboard. To replicate the results, make sure you only select models with a submission date before 17-12-2025.
