@@ -46,6 +46,7 @@ This subfolder contains the following files:
 - ending_conditions.xlsx: contains the formulated ending conditions for the creation of the taxonomy
 - taxonomy_patterns.xlsx: contains the taxonomy, where each pattern name is presented with the chosen characteristics.
 - exclusion_criteria.xlsx: consists of the defined exclusion criteria for the patterns.
+- codebook.xlsx: codebook based on thematic analysis, including themes, high-level codes, definitions and representative examples.
 
 ### subFolder: RQ2
 This subfolder contains the following files:
@@ -55,6 +56,11 @@ This subfolder contains the following files:
 - common_categories.xlsx: presents the ratio and frequency scores to create Figure 10 & 12.
 - thematic_analysis.xlsx: contains the frequency of occurrence of each mentioned theme in section 8.2.3.
 - survey_questions.xlsx: presents the questions asked in the survey.
+- group_level_performance_dense.xlsx: group level performance for ReqSign-D
+- group_level_performance_tax.xlsx: group level performance for ReqSign-T
+- recom_dense.xlsx: recommended patterns per group by ReqSign-D
+- recom_tax.xlsx: recommended patterns per group by ReqSign-T
+
 
 #### subsubfolder Experimental setup
 The following files are present in this subsubfolder:
